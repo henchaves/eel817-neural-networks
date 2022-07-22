@@ -1,0 +1,4 @@
+tensorflow
+rdkit
+ogb
+python-dotenv
