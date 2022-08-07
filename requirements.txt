@@ -3,3 +3,4 @@ rdkit
 ogb
 python-dotenv
 swifter
+scikeras
